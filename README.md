@@ -2,6 +2,7 @@
 
 I am taking up Computer Science&Engineering. I am also intrested in Deep Learning and AI
 
-Here is some of the stuff I am intrested in:
+Here is some of the stuff I am intrested(or studying):
 + Deep Learning
-+ XAI(Explainable AI)
++ Natural Language Processing
++ Computer Vision
