@@ -8,4 +8,4 @@ Here is some of the stuff I am intrested(or studying):
 + Computer Vision
 
 Here is publications things:
-+ I. Ku, S. Roh, G. Kim, C. Taylor, Y. Wang and E. T. Matson, "UAV Payload Detection Using Deep Learning and Data Augmentation," 2022 Sixth IEEE International Conference on Robotic Computing (IRC), Italy, 2022, pp. 18-25, doi: 10.1109/IRC55401.2022.00009.
++ I. Ku, S. Roh, G. Kim, C. Taylor, Y. Wang and E. T. Matson, "UAV Payload Detection Using Deep Learning and Data Augmentation," *2022 Sixth IEEE International Conference on Robotic Computing (IRC)*, Italy, 2022, pp. 18-25, doi: 10.1109/IRC55401.2022.00009.
